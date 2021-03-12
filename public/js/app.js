@@ -2277,7 +2277,7 @@ __webpack_require__.r(__webpack_exports__);
   },
   created: function created() {},
   methods: {
-    updateBook: function updateBook() {
+    updateBlog: function updateBlog() {
       var url = 'api/v1/Blog/Updates/' + this.blog.id + '/update-blog',
           method = 'post';
       fetch(url, {

@@ -1,8 +1,7 @@
 <?php
 
 
-namespace App\Http\Controllers\Book\Creates;
-
+namespace App\Http\Controllers\Blog\Creates;
 
 use App\Blog;
 use Illuminate\Http\Request;
