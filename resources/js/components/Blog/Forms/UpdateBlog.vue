@@ -76,7 +76,7 @@
         created(){
         },
         methods: {
-            updateBook()
+            updateBlog()
             {
                 var url = 'api/v1/Blog/Updates/'+this.blog.id+'/update-blog', method = 'post';
 
