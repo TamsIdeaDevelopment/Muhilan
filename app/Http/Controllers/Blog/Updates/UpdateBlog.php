@@ -3,7 +3,6 @@
 
 namespace App\Http\Controllers\Blog\Updates;
 
-
 use App\Blog;
 use Illuminate\Http\Request;
 
