@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Anaqi
+                    Anaqi Luthfi
                 </div>
 
                 <div class="links">
