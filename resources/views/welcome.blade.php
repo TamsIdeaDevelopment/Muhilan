@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Muhilan Nalarajah
+                    snh
                 </div>
 
                 <div class="links">
